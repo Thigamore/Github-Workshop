@@ -14,4 +14,4 @@ File -> Clone Repository and search up name of repository (Github-Workshop or th
 - [ ] Check this to make a change
 
 * Check the checkmark above by putting an x between the brackets
-* Then
+* Then oh no I changed this
